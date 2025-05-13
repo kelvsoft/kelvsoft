@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Emmanuel Ebuka Williams 
+# 👋 Hi, I'm Ebuka Williams 
 
 **Full Stack Developer (PHP/Laravel & JavaScript) | Building Scalable Web Solutions**
 
