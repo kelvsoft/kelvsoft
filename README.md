@@ -26,7 +26,7 @@
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **[Samsan Gadgets](https://github.com/kelvsoft/Samsan)** | Production-ready e-commerce platform | PHP, MySQL, JavaScript, Tailwind CSS |
+| **[Samsan Gadgets](https://samsanhub.com/)** | Production-ready e-commerce platform | PHP, MySQL, JavaScript, Tailwind CSS |
 | **[MAXXI-Bank](https://github.com/kelvsoft/)** | Financial dashboard (in development) | PHP, JavaScript, Bootstrap |
 
 ## 📈 GitHub Stats
