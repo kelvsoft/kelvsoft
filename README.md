@@ -27,6 +27,8 @@
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | **[Samsan Gadgets](https://samsanhub.com/)** | Production-ready e-commerce platform | PHP, MySQL, JavaScript, Tailwind CSS |
+| **[SomiStore](https://somistore.com.ng)** | A Modern Full-Stack E-commerce  |Laravel, React, InertiaJs, MySQL |
+| **[limit-order-exchange](https://github.com/kelvsoft/limit-order-exchange.git)** |Real-time cryptocurrency exchange engine that matches orders instantly and updates the UI via WebSockets |Laravel,Vue, InertiaJs, MySQL |
 | **[MAXXI-Bank](https://github.com/kelvsoft/)** | Financial dashboard (in development) | PHP, JavaScript, Bootstrap |
 
 ## 📈 GitHub Stats
